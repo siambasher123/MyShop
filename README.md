@@ -57,12 +57,4 @@ Visit [http://localhost:8000](http://localhost:8000) to get started.
 
 ![Homepage Screenshot](screenshots/homepage.png)
 
-_Add more screenshots by copying images to the screenshots/ folder and referencing them like above._
 
-## Contribution
-
-Contributions are welcome! Please open an issue or pull request to propose features or fixes.
-
-## License
-
-[Specify your license here, e.g., MIT, Apache, etc.]
