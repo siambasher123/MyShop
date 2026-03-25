@@ -55,6 +55,6 @@ Visit [http://localhost:8000](http://localhost:8000) to get started.
 
 ## Screenshots
 
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](homepage.png)
 
 
